@@ -1,4 +1,4 @@
-# Analysis of Northwind Business
+# Northwind data analysis for business enhancement
 
 For the Northwinds business analysis project, I will work with the Northwind database, which is a fictious database for a consumer products company that has offices in the Seattle, Washington, USA and London, British Isles.
 

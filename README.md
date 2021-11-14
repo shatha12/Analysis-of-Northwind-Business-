@@ -1,5 +1,6 @@
 # Analysis of Northwind Business
 
+- For the Northwinds business analysis project, I worked with the Northwind database, which is a fictious database for a consumer products company that has offices in the Seattle, Washington, USA and London, British Isles. After analyzing the database, I’ll provide insight and recommendations to the Northwinds’ ‘Stakeholders’ to help them grow their bussiness.
 
 ### Question/need:
 - Northwind business wants to grow their business and they need to know  where to focus their effort .
